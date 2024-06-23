@@ -1,5 +1,8 @@
 # Diabetes prediction using machine learning algorithm
 
+**working video** 
+https://www.linkedin.com/posts/siva-bharathi-n-9b233b1b4_guvi-machinelearning-datascience-activity-7210590357615439872-A01R/?utm_source=share&utm_medium=member_desktop
+
 **overview**
 
 This Streamlit application predicts the likelihood of diabetes based on user input. The app utilizes a pre-trained machine learning model to make predictions.
